@@ -1,5 +1,5 @@
 package com.stecavalli.flashlight                               // This line of code must be modified with the Package Name chosen when creating the project.
-
+                                                                
 import android.content.Context
 import android.hardware.camera2.CameraAccessException
 import android.hardware.camera2.CameraManager
@@ -24,7 +24,8 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.stecavalli.flashlight.ui.theme.FlashlightTheme
+                                                                                                                                
+import com.stecavalli.flashlight.ui.theme.FlashlightTheme       // This line of code must be modified with the Package Name chosen when creating the project.
 
 class MainActivity : ComponentActivity() {
     private var isFlashOn by mutableStateOf(false)

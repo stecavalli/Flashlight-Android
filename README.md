@@ -13,3 +13,6 @@ Edit the Name, Package Name, Save Location, Minimum SDK fields to your preferenc
  <br>
  <br>
 Use the three files <b>AndroidManifest.xml</b>, <b>MainActivity.kt</b> and <b>build.gradle.kts</b> that you find in this repository, modifying the lines of code where indicated by the comments.
+ <br>
+ <br>
+Build Apk and install it on your smartphone.

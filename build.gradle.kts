@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.stecavalli.flashlight"
+    namespace = "com.stecavalli.flashlight"                                         // This line of code must be modified with the Package Name chosen when creating the project.
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.stecavalli.flashlight"
+        applicationId = "com.stecavalli.flashlight"                                // This line of code must be modified with the Package Name chosen when creating the project.
         minSdk = 24
         targetSdk = 33
         versionCode = 1

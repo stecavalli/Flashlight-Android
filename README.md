@@ -1,2 +1,12 @@
 # Flashlight-Android
-How to turn Android flashlight on and off. Application created with Android Studio in Kotlin language. It also contains the Plugin to be used in Unity to access the native Android functions to interact with the smartphone's flashlight (see the "Plugin-for-Unity" repository for the creation of the Plugin and its use in Unity).
+This application was created with Android Studio to turn your smartphone's flashlight on and off. This project was used to create the Plugin to be used in Unity to access native Android functions and interact with the device's flashlight (see the "Plugin-for-Unity" repository for the creation of the Plugin and its use in Unity ).
+# Software used:
+Android Studio Giraffe | 2022.3.1 Patch 3
+# Guide to creating and developing the app
+Open Android Studio and create a New Project by clicking on the appropriate button which will start the wizard.
+ <br>
+ <br>
+In Phone and Table select Empty Activity and then on the Next button.
+ <br>
+ <br>
+ Edit the Name, Package Name, Save Location, Minimum SDK fields to your preferences. In Build configuration language choose Kotlin DSL [Recommended] and then click on the finish button.

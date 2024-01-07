@@ -1,4 +1,4 @@
-package com.stecavalli.flashlight
+package com.stecavalli.flashlight                               // This line of code must be modified with the Package Name chosen when creating the project.
 
 import android.content.Context
 import android.hardware.camera2.CameraAccessException

@@ -9,4 +9,7 @@ Open Android Studio and create a New Project by clicking on the appropriate butt
 In Phone and Table select Empty Activity and then on the Next button.
  <br>
  <br>
- Edit the Name, Package Name, Save Location, Minimum SDK fields to your preferences. In Build configuration language choose Kotlin DSL [Recommended] and then click on the finish button.
+Edit the Name, Package Name, Save Location, Minimum SDK fields to your preferences. In Build configuration language choose Kotlin DSL [Recommended] and then click on the finish button.
+ <br>
+ <br>
+Use the three files <b>AndroidManifest.xml</b>, <b>MainActivity.kt</b> and <b>build.gradle.kts</b> that you find in this repository, modifying the lines of code where indicated by the comments.

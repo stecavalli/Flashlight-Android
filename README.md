@@ -1,5 +1,5 @@
 # Flashlight-Android
-This application was created with Android Studio to turn your smartphone's flashlight on and off. This project was used to create the Plugin to be used in Unity to access native Android functions and interact with the device's flashlight (see the "Plugin-for-Unity" repository for the creation of the Plugin and its use in Unity ).
+This application was created with Android Studio to turn your smartphone's flashlight on and off. This project was used to create the Plugin to be used in Unity to access native Android functions and interact with the device's flashlight (see the [Plugin-for-Unity](https://github.com/stecavalli/Plugin-for-Unity) repository for the creation of the Plugin and its use in Unity ).
 # Software used:
 Android Studio Giraffe | 2022.3.1 Patch 3
 # Guide to creating and developing the app
